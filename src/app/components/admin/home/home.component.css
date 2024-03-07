@@ -1,0 +1,11 @@
+
+
+*{
+    padding: 8px;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    color: black;
+    background-color:  rgba(#f4623a,var(--bs-bg-opacity))!important;
+}
